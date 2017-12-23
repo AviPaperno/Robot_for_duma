@@ -1,0 +1,2 @@
+self.slider_moove([self.ids.head_2,self.ids.right_2,self.ids.left_2,self.ids.right_2,self.ids.left_2],[-60,27,-48,20,55],0.05)
+self.to_init(self.ids.left_2,self.ids.right_2,self.ids.head_2)
